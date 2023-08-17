@@ -4,3 +4,18 @@ mkdocs-jupyter==0.18.2
 mkdocs-material==7.3.6
 mkdocs-material-extensions==1.0.3
 mdx-include==1.4.2
+# addon
+jupyter
+ipywidgets
+
+ray[rllib,serve,tune]==2.2.0
+pyarrow
+pygame
+gymnasium
+dm_tree
+pandas
+scikit-image
+rich
+typer
+lz4
+tensorboardx
